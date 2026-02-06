@@ -1,0 +1,13 @@
+{
+  "name": "n8n-render",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "*",
+    "pg": "*"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
